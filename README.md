@@ -1,2 +1,2 @@
-# odin-project
+# the Odin-project
 My first repository 
